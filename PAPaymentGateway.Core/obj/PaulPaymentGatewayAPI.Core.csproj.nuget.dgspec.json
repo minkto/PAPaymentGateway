@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\p6ul\\source\\repos\\PaulPaymentGatewayAPI\\PaulPaymentGatewayAPI.Core\\PaulPaymentGatewayAPI.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\p6ul\\source\\repos\\PaulPaymentGatewayAPI\\PaulPaymentGatewayAPI.Core\\PaulPaymentGatewayAPI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\p6ul\\source\\repos\\PaulPaymentGatewayAPI\\PaulPaymentGatewayAPI.Core\\PaulPaymentGatewayAPI.Core.csproj",
+        "projectName": "PaulPaymentGatewayAPI.Core",
+        "projectPath": "C:\\Users\\p6ul\\source\\repos\\PaulPaymentGatewayAPI\\PaulPaymentGatewayAPI.Core\\PaulPaymentGatewayAPI.Core.csproj",
+        "packagesPath": "C:\\Users\\p6ul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\p6ul\\source\\repos\\PaulPaymentGatewayAPI\\PaulPaymentGatewayAPI.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\p6ul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

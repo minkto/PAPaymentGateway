@@ -1,0 +1,9 @@
+C:\Users\p6ul\source\repos\PaulPaymentGatewayAPI\PaulPaymentGatewayAPI.Core\bin\Release\netcoreapp3.0\PaulPaymentGatewayAPI.Core.deps.json
+C:\Users\p6ul\source\repos\PaulPaymentGatewayAPI\PaulPaymentGatewayAPI.Core\bin\Release\netcoreapp3.0\PaulPaymentGatewayAPI.Core.dll
+C:\Users\p6ul\source\repos\PaulPaymentGatewayAPI\PaulPaymentGatewayAPI.Core\bin\Release\netcoreapp3.0\PaulPaymentGatewayAPI.Core.pdb
+C:\Users\p6ul\source\repos\PaulPaymentGatewayAPI\PaulPaymentGatewayAPI.Core\obj\Release\netcoreapp3.0\PaulPaymentGatewayAPI.Core.csprojAssemblyReference.cache
+C:\Users\p6ul\source\repos\PaulPaymentGatewayAPI\PaulPaymentGatewayAPI.Core\obj\Release\netcoreapp3.0\PaulPaymentGatewayAPI.Core.AssemblyInfoInputs.cache
+C:\Users\p6ul\source\repos\PaulPaymentGatewayAPI\PaulPaymentGatewayAPI.Core\obj\Release\netcoreapp3.0\PaulPaymentGatewayAPI.Core.AssemblyInfo.cs
+C:\Users\p6ul\source\repos\PaulPaymentGatewayAPI\PaulPaymentGatewayAPI.Core\obj\Release\netcoreapp3.0\PaulPaymentGatewayAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\p6ul\source\repos\PaulPaymentGatewayAPI\PaulPaymentGatewayAPI.Core\obj\Release\netcoreapp3.0\PaulPaymentGatewayAPI.Core.dll
+C:\Users\p6ul\source\repos\PaulPaymentGatewayAPI\PaulPaymentGatewayAPI.Core\obj\Release\netcoreapp3.0\PaulPaymentGatewayAPI.Core.pdb
